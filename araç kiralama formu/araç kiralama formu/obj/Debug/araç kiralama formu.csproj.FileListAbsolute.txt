@@ -1,0 +1,20 @@
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\bin\Debug\araç kiralama formu.exe.config
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\bin\Debug\araç kiralama formu.exe
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\bin\Debug\araç kiralama formu.pdb
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\bin\Debug\EntityFramework.dll
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\bin\Debug\System.Data.SQLite.dll
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\bin\Debug\EntityFramework.xml
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\bin\Debug\System.Data.SQLite.xml
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\obj\Debug\araç kiralama formu.csproj.AssemblyReference.cache
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\obj\Debug\araç_kiralama_formu.Properties.Resources.resources
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\obj\Debug\araç kiralama formu.csproj.GenerateResource.cache
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\obj\Debug\araç kiralama formu.csproj.CoreCompileInputs.cache
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\obj\Debug\araç kiralama formu.csproj.CopyComplete
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\obj\Debug\araç kiralama formu.exe
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\obj\Debug\araç kiralama formu.pdb
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\obj\Debug\araç_kiralama_formu.AracYonetim.resources
+C:\Users\danda\source\repos\araç kiralama formu\araç kiralama formu\obj\Debug\araç_kiralama_formu.AracEkle.resources
